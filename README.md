@@ -1,6 +1,6 @@
 Folder Structure
 
-
+```bash
 datatable-app/
 ├── app/
 │   ├── globals.css          ← Tailwind + shadcn CSS variables
@@ -29,7 +29,7 @@ datatable-app/
 ├── tsconfig.json
 └── next.config.mjs
 
-
+```
 
 ```bash
 # 1. Copy the project files
